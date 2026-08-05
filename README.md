@@ -47,7 +47,7 @@ This command generates:
 
 - `models/diabetes_model.pkl`
 
-**Note:** The `diabetes_model.pkl` file is not included in this repository because it exceeds GitHub's web upload size limit. Running the above command will automatically generate it.
+**Note:** The diabetes_model.pkl file is not included in this repository because it exceeds GitHub's web upload size limit. Running python src/train_model.py will automatically generate it.
 
 ### Step 3
 
